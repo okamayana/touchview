@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleTouch</string>
+
+    <string name="title_simple_touch">SimpleTouch</string>
+    <string name="title_touch_view">TouchView</string>
+
+    <string name="menu_touch_view">TouchView</string>
+
+</resources>
